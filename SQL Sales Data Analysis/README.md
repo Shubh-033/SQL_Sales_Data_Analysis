@@ -58,17 +58,5 @@ Overall Sales Growth: 96.58%
 
 ✅ Detailed Project Report (Word file)
 
-💡 Future Enhancements
-Connect SQL database to Power BI for live dashboards
 
-Perform forecasting using Python
-
-Automate reporting using Python scripts
-
-🙋‍♂️ About Me
-Subham Singh Negi
-A passionate Data Analyst with skills in SQL, Power BI, Python, and Excel. Dedicated to solving business problems using data-driven approaches.
-
-📫 LinkedIn
-💻 GitHub
 
