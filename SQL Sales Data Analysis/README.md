@@ -18,15 +18,15 @@ GitHub – For project documentation and version control
 
 SQL_Sales_Data_Analysis/
 
-├── SQL_Complete_Analysis.sql        # All SQL queries in one file
+├── SQL_Complete_Analysis.sql       
 
-├── Query Results/                   # CSV files of query outputs
+├── Query Results/                 
 
-├── Project Report/                  # Detailed project report
+├── Project Report/                
 
-├── Dataset/                         # Dataset used (or source link provided)
+├── Dataset/                         
 
-└── README.md                        # Project overview and documentation
+└── README.md                     
 
 📥 Dataset Source
 
