@@ -17,11 +17,17 @@ GitHub – For project documentation and version control
 📂 Project Structure
 
 SQL_Sales_Data_Analysis/
+
 ├── SQL_Complete_Analysis.sql        # All SQL queries in one file
+
 ├── Query Results/                   # CSV files of query outputs
+
 ├── Project Report/                  # Detailed project report
+
 ├── Dataset/                         # Dataset used (or source link provided)
+
 └── README.md                        # Project overview and documentation
+
 📥 Dataset Source
 
 Dataset: Retail Sales Dataset
